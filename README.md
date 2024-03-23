@@ -3,7 +3,7 @@
 
 ## Live URL
 
-  >[Shop Cart App](https://my-app-cart.herokuapp.com/)
+  >[Shop Cart App](https://shop-cart-tulu.onrender.com/)
 
 ## Scripts
 
